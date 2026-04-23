@@ -1,8 +1,14 @@
 # Hey, I'm Steven 👋
 
-I'm a full-stack developer and student at UTSA passionate about building AI-powered products. I spend most of my time working on **[Krowe](https://krowehub.com)** — a platform that helps non-technical founders scope, plan, and build software without needing to hire a team first. I'm also a marketing intern at Patel Gaines, where I build internal tools to support the team.
+I'm a full-stack developer and student at UTSA who builds AI-powered products that close the gap between having an idea and actually shipping it.
 
-I'm drawn to the intersection of AI and business — automating the parts that slow founders down so they can move faster on what actually matters.
+My main project is **[Krowe](https://krowehub.com)** — a platform built for non-technical founders who know what they want to build but don't know where to start. Krowe walks them through scoping their MVP, estimating real costs, and learning the skills they need to move forward without depending on expensive agencies or guesswork. I've built it end-to-end: multi-step onboarding, AI-generated business reports via OpenAI, Firebase auth, Sanity CMS for content, and a full learning path system.
+
+Outside of Krowe, I work at **Patel Gaines** where I build internal tooling — things like lead management systems and workflow automation that make the team more efficient day to day. It keeps me grounded in real operational problems, not just side project thinking.
+
+I got into AI early because I saw how much friction exists between a business idea and a working product. Most of that friction isn't technical — it's informational. People don't know what to build first, how much it costs, or what skills they need. That's the problem I'm obsessed with solving.
+
+When I'm not deep in a codebase I'm competing in hackathons, experimenting with AI agents, or thinking about how software can remove the middleman between ambition and execution.
 
 ---
 

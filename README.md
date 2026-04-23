@@ -39,5 +39,5 @@ I'm a full-stack developer building **[Krowe](https://krowehub.com)** — an AI-
 ### Get in Touch
 
 - Portfolio: [stevenortega.dev](https://stevenortega.dev)
-- Email: marketingintern@patelgaines.com
+- Email: steven.ortega426@gmail.com
 

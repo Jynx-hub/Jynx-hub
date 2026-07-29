@@ -45,7 +45,7 @@ I got into this because most of the friction between an idea and a working produ
 |---------|------------|---|
 | **[Krowe](https://krowehub.com)** | Secure portal to scope, pay, and ship internal systems with a fast, low-cost builder | Live |
 | **[F1 Race Strategy AI](https://github.com/Jynx-hub/CQHacks)** | A pit-wall AI that calls F1 tire & pit strategy for points — a 3-layer physics + LightGBM + reinforcement-learning model driving a live pixel-art race replay | 🏆 CQ Hacks 2026 Winner |
-| **[Airtight](https://github.com/Jynx-hub/Airtight)** | Automated patent platform — a light applicant surface drafts filing-ready specs while a self-improving examiner engine mines examiner rejections into a failure library so claims survive §101/§102/§103/§112 challenges | Shipped |
+| **[Airtight](https://github.com/Jynx-hub/Airtight)** | Automated patent platform — a light applicant surface drafts filing-ready specs while a self-improving examiner engine mines examiner rejections into a failure library so claims survive §101/§102/§103/§112 challenges | Hackathon Project |
 | **[RefNetwork](https://www.redreferral.com/)** | Referral platform for local businesses — public intake, auto-generated discount codes, and a New → Contacted → Converted pipeline | Client Work |
 | **JarvisOS** | Agentic OS for AI-assisted work — live Claude Code session streaming, an Obsidian vault graph, and AI-generated recaps | Active |
 | **Patel Gaines Internal System** | Internal ops platform — outreach pipeline, referral tracking, and performance reporting | In-House |

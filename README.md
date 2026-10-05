@@ -2,21 +2,20 @@
 
 ### Product-minded engineer. I ship things that work.
 
-I'm a CS student and founder — transferring to **UT Austin ('29)** this fall. I build full-stack products end-to-end and ship them: seven so far, solo, for clients, and at work. I care about turning ambiguous ideas into clean, working software, and I build in the open.
+I'm a **Behavioral and Social Data Science** student at **UT Austin ('29)** and a full-stack developer shipping production apps in TypeScript, Next.js, Postgres, and AWS. I care about turning ambiguous ideas into clean, working software, and I build in the open.
 
-My main thing is **[Krowe](https://krowehub.com)** — a secure portal that makes it safe to hire a fast, low-cost builder. Small-business operators scope, pay, and ship internal systems in one workspace, with the risk contained and the work verified. I'm **co-founder/CEO**: I've built the two-sided portal (builder + operator dashboards) on Next.js + Supabase with role-gated RLS, Google OAuth onboarding, and AI task estimation. We're at 33 waitlisted users and partnered with **SH1P**, an Austin accelerator.
+Right now I'm a full-stack developer at **Patel Gaines**, a Texas property-tax law firm, where I build the internal operations platform the legal and marketing teams use every day: Next.js 14 on AWS, managing 44 client accounts, with Cognito role-based access and email MFA enforcing per-team data isolation.
 
-Alongside Krowe I'm an in-house full-stack developer at **Patel Gaines**, a Texas property-tax law firm, where I own the web presence and build internal tooling for the marketing and legal teams. I also co-founded **Rowdy Launch**, a 100+ member startup club at UTSA that teaches students how to ship MVPs.
+Before that I was **technical co-founder of [Krowe](https://krowehub.com)** (May – Aug 2026). I built and launched a multi-tenant client portal that grew to **100+ users**, with AI-generated PRDs, quotes, and contracts streamed over SSE, plus an end-to-end quote → contract → e-signature flow on Postgres RPCs. Before that I was a growth engineer at **Cal AI**, where I built the content analytics pipeline and an A/B testing framework whose winning variants lifted trial conversion 18%.
 
-I got into this because most of the friction between an idea and a working product isn't technical — it's knowing what to build first. That's the gap I'm obsessed with closing.
+I also won **1st place at CQ Hacks 2026** with a reinforcement-learning F1 strategy engine. At UT I'm a member of **Longhorn Developers** (open-source PRs) and **Texas Alpha Kappa Psi**.
 
 ---
 
 ### 🛠 What I'm Building
 
-- **[Krowe](https://krowehub.com)** — secure portal for SMBs to scope, pay, and ship internal systems with an AI-native builder *(co-founder/CEO)*
-- **JarvisOS** — an agentic OS for AI-assisted work: a Next.js command center + Fastify daemon that streams live Claude Code sessions and turns them into AI recaps
-- **Patel Gaines Internal System** — internal ops platform on Next.js + Supabase, hosted on AWS behind CloudFront
+- **Patel Gaines Internal System**: internal ops platform on Next.js 14 + AWS (Cognito, S3), with a property-tax enrichment pipeline (Brave Search + Gemini) and secure presigned-S3 client uploads
+- **JarvisOS**: an agentic OS for AI-assisted work. A Next.js command center + Fastify daemon that streams live Claude Code sessions, maps an Obsidian vault as a wikilink graph, and turns sessions into AI recaps
 
 ---
 
@@ -30,12 +29,18 @@ I got into this because most of the friction between an idea and a working produ
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 ---
 
@@ -43,17 +48,17 @@ I got into this because most of the friction between an idea and a working produ
 
 | Project | What it is | |
 |---------|------------|---|
-| **[Krowe](https://krowehub.com)** | Secure portal to scope, pay, and ship internal systems with a fast, low-cost builder | Live |
-| **[F1 Race Strategy AI](https://github.com/Jynx-hub/CQHacks)** | A pit-wall AI that calls F1 tire & pit strategy for points — a 3-layer physics + LightGBM + reinforcement-learning model driving a live pixel-art race replay | 🏆 CQ Hacks 2026 Winner |
-| **[Airtight](https://github.com/Jynx-hub/Airtight)** | Automated patent platform — a light applicant surface drafts filing-ready specs while a self-improving examiner engine mines examiner rejections into a failure library so claims survive §101/§102/§103/§112 challenges | Hackathon Project |
-| **[RefNetwork](https://www.redreferral.com/)** | Referral platform for local businesses — public intake, auto-generated discount codes, and a New → Contacted → Converted pipeline | Client Work |
-| **JarvisOS** | Agentic OS for AI-assisted work — live Claude Code session streaming, an Obsidian vault graph, and AI-generated recaps | Active |
-| **Patel Gaines Internal System** | Internal ops platform — outreach pipeline, referral tracking, and performance reporting | In-House |
+| **[Krowe](https://krowehub.com)** | Multi-tenant client portal (Next.js 16 + Supabase) that grew to 100+ users: AI-generated PRDs, quotes, and contracts over SSE, GitHub + Granola OAuth, and a quote → contract → e-signature flow | Shipped · Co-Founder |
+| **[F1 Race Strategy AI](https://github.com/Jynx-hub/CQHacks)** | Three-layer pit-strategy engine: a physics lap-time model, an MLP residual corrector, and a PyTorch Deep Recurrent Q-Network trained on 26k+ laps of 2025 F1 data, driving a canvas race replay with AI engineer radio | 🏆 CQ Hacks 2026 Winner |
+| **[Airtight](https://github.com/Jynx-hub/Airtight)** | Automated patent platform. An agent loop drafts filing-ready specs against real PTAB rejections, and a self-improving examiner engine mines rejections into a failure library (§101/§102/§103/§112). Self-hosted Nemotron on vLLM (10.7× throughput) behind a default-deny egress policy | Hackathon Project |
+| **[RefNetwork](https://www.redreferral.com/)** | Referral platform for local businesses: public intake, auto-generated discount codes, and a New → Contacted → Converted pipeline | Client Work |
+| **JarvisOS** | Agentic OS for AI-assisted work: live Claude Code session streaming, an Obsidian vault graph, and AI-generated recaps | Active |
+| **Patel Gaines Internal System** | Internal ops platform for 44 client accounts, with Cognito RBAC + MFA, a property-tax enrichment pipeline, and secure S3 client uploads | Current Job |
 
 ---
 
 ### 📫 Get in Touch
 
-- 🌐 Portfolio — **[stevenortega.dev](https://stevenortega.dev)**
-- 💼 LinkedIn — [stevenortega3](https://www.linkedin.com/in/stevenortega3)
-- ✉️ Email — steven.ortega426@gmail.com
+- 🌐 Portfolio: **[stevenortega.dev](https://stevenortega.dev)**
+- 💼 LinkedIn: [stevenortega3](https://www.linkedin.com/in/stevenortega3)
+- ✉️ Email: steven.ortega426@gmail.com

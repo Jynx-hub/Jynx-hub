@@ -2,7 +2,7 @@
 
 ### Product-minded engineer. I ship things that work.
 
-I'm a **Behavioral and Social Data Science** student at **UT Austin ('29)** and a full-stack developer shipping production apps in TypeScript, Next.js, Postgres, and AWS. I care about turning ambiguous ideas into clean, working software, and I build in the open.
+I'm a **Data Science** student at **UT Austin ('29)** and a full-stack developer shipping production apps in TypeScript, Next.js, Postgres, and AWS. I care about turning ambiguous ideas into clean, working software, and I build in the open.
 
 Right now I'm a full-stack developer at **Patel Gaines**, a Texas property-tax law firm, where I build the internal operations platform the legal and marketing teams use every day: Next.js 14 on AWS, managing 44 client accounts, with Cognito role-based access and email MFA enforcing per-team data isolation.
 

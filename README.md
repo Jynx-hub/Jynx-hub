@@ -4,7 +4,7 @@
 
 I'm a **Data Science** student at **UT Austin ('29)** and a full-stack developer shipping production apps in TypeScript, Next.js, Postgres, and AWS. I care about turning ambiguous ideas into clean, working software, and I build in the open.
 
-Right now I'm a full-stack developer at **Patel Gaines**, a Texas property-tax law firm, where I build the internal operations platform the legal and marketing teams use every day: Next.js 14 on AWS, managing 44 client accounts, with Cognito role-based access and email MFA enforcing per-team data isolation.
+Right now I'm a full-stack developer at **Patel Gaines**, a Texas property-tax law firm, where I build the internal operations platform the legal and marketing teams use every day.
 
 Before that I was **technical co-founder of [Krowe](https://krowehub.com)** (May – Aug 2026). I built and launched a multi-tenant client portal that grew to **100+ users**, with AI-generated PRDs, quotes, and contracts streamed over SSE, plus an end-to-end quote → contract → e-signature flow on Postgres RPCs. Before that I was a growth engineer at **Cal AI**, where I built the content analytics pipeline and an A/B testing framework whose winning variants lifted trial conversion 18%.
 
@@ -14,7 +14,7 @@ I also won **1st place at CQ Hacks 2026** with a reinforcement-learning F1 strat
 
 ### 🛠 What I'm Building
 
-- **Patel Gaines Internal System**: internal ops platform on Next.js 14 + AWS (Cognito, S3), with a property-tax enrichment pipeline (Brave Search + Gemini) and secure presigned-S3 client uploads
+- **Patel Gaines Internal System**: the internal operations platform for the firm's legal and marketing teams
 - **JarvisOS**: an agentic OS for AI-assisted work. A Next.js command center + Fastify daemon that streams live Claude Code sessions, maps an Obsidian vault as a wikilink graph, and turns sessions into AI recaps
 
 ---
@@ -53,7 +53,7 @@ I also won **1st place at CQ Hacks 2026** with a reinforcement-learning F1 strat
 | **[Airtight](https://github.com/Jynx-hub/Airtight)** | Automated patent platform. An agent loop drafts filing-ready specs against real PTAB rejections, and a self-improving examiner engine mines rejections into a failure library (§101/§102/§103/§112). Self-hosted Nemotron on vLLM (10.7× throughput) behind a default-deny egress policy | Hackathon Project |
 | **[RefNetwork](https://www.redreferral.com/)** | Referral platform for local businesses: public intake, auto-generated discount codes, and a New → Contacted → Converted pipeline | Client Work |
 | **JarvisOS** | Agentic OS for AI-assisted work: live Claude Code session streaming, an Obsidian vault graph, and AI-generated recaps | Active |
-| **Patel Gaines Internal System** | Internal ops platform for 44 client accounts, with Cognito RBAC + MFA, a property-tax enrichment pipeline, and secure S3 client uploads | Current Job |
+| **Patel Gaines Internal System** | Internal operations platform used daily by the firm's legal and marketing teams | Current Job |
 
 ---
 

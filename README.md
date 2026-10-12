@@ -8,7 +8,7 @@ Right now I'm a full-stack developer at **Patel Gaines**, a Texas property-tax l
 
 Before that I was **technical co-founder of [Krowe](https://krowehub.com)** (May – Aug 2026). I built and launched a multi-tenant client portal that grew to **100+ users**, with AI-generated PRDs, quotes, and contracts streamed over SSE, plus an end-to-end quote → contract → e-signature flow on Postgres RPCs. Before that I was a growth engineer at **Cal AI**, where I built the content analytics pipeline and an A/B testing framework whose winning variants lifted trial conversion 18%.
 
-I also won **1st place at CQ Hacks 2026** with a reinforcement-learning F1 strategy engine. At UT I'm a member of **Longhorn Developers** (open-source PRs) and **Texas Alpha Kappa Psi**.
+I also won **1st place at CQ Hacks 2026** with a reinforcement-learning F1 strategy engine. At UT I'm a member of **Longhorn Developers** (open-source PRs).
 
 ---
 

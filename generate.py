@@ -62,6 +62,7 @@ def galaxy():
 QUERY = """
 query($login: String!) {
   user(login: $login) {
+    createdAt
     followers { totalCount }
     repositories(ownerAffiliations: OWNER, first: 100, privacy: PUBLIC) {
       totalCount
@@ -69,7 +70,6 @@ query($login: String!) {
     }
     repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST], first: 1) { totalCount }
     contributionsCollection {
-      contributionCalendar { totalContributions }
       totalCommitContributions
       restrictedContributionsCount
     }
@@ -82,7 +82,7 @@ def fetch_stats():
     token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
     if not token:
         return {"repos": "?", "contributed": "?", "stars": "?", "followers": "?",
-                "commits": "?", "contribs": "?"}
+                "commits": "?", "joined": "?"}
     req = urllib.request.Request(
         "https://api.github.com/graphql",
         data=json.dumps({"query": QUERY, "variables": {"login": USER}}).encode(),
@@ -96,7 +96,7 @@ def fetch_stats():
         "stars": sum(n["stargazerCount"] for n in u["repositories"]["nodes"]),
         "followers": u["followers"]["totalCount"],
         "commits": cc["totalCommitContributions"] + cc["restrictedContributionsCount"],
-        "contribs": cc["contributionCalendar"]["totalContributions"],
+        "joined": u["createdAt"][:4],
     }
 
 
@@ -163,7 +163,7 @@ def info_lines(s):
         header("- GitHub Stats"),
         pair("Repos", fmt(s["repos"]), "Stars", fmt(s["stars"])),
         pair("Commits", fmt(s["commits"]), "Followers", fmt(s["followers"])),
-        pair("Contributed", fmt(s["contributed"]), "Year", fmt(s["contribs"])),
+        pair("Contributed", fmt(s["contributed"]), "Joined", s["joined"]),
     ]
 
 

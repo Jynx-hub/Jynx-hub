@@ -144,7 +144,7 @@ def info_lines(s):
         [("steven", "key-h"), ("@", "dim"), ("ortega ", "key-h"), ("—" * (INFO_W - 14), "dim")],
         kv("OS", "macOS, Linux, AWS"),
         kv("School", "Data Science @ UT Austin '29"),
-        kv("Host", "Patel Gaines"),
+        kv("Employer", "Patel Gaines"),
         kv("Current Role", "Full-Stack Developer"),
         kv("IDE", "VS Code, Claude Code"),
         blank,

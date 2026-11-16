@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1003px" height="530px" font-size="16px">
+<style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%;}.dim{fill:#c2cfde}.key{fill:#953800}.key-h{fill:#24292f}.val{fill:#0a3069}.g0{fill:#bf8700}.g1{fill:#bf3989}.g2{fill:#8250df}.g3{fill:#0550ae}.g4{fill:#8c959f}text,tspan{white-space:pre;}</style>
+<rect width="1003px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30">
+<tspan x="15"><tspan class="g4">                              *         </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">       .                    .           </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">                .                       </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">                   .                    </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">   * </tspan><tspan class="g3">:,,,,</tspan><tspan class="g4"> </tspan><tspan class="g3">`&#x27;</tspan><tspan class="g4">                           </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">   </tspan><tspan class="g3">~:::,`</tspan><tspan class="g4">         .        .            </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">  </tspan><tspan class="g3">;~~~::</tspan><tspan class="g4"> </tspan><tspan class="g3">`</tspan><tspan class="g4">                              </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">.</tspan><tspan class="g3">:;;~~;`</tspan><tspan class="g4">          </tspan><tspan class="g3">&#x27;</tspan><tspan class="g4">.  </tspan><tspan class="g3">&#x27;</tspan><tspan class="g4">                 </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g3">``::~;;`</tspan><tspan class="g4">      </tspan><tspan class="g2">`</tspan><tspan class="g4"> </tspan><tspan class="g2">;++**</tspan><tspan class="g3">;:::`&#x27;</tspan><tspan class="g4">             </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4"> </tspan><tspan class="g3">,,~;~:``</tspan><tspan class="g4">     </tspan><tspan class="g2">~x&amp;@@#&amp;###</tspan><tspan class="g3">=**;:`</tspan><tspan class="g4">         *</tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4"> </tspan><tspan class="g3">`::~~;~:</tspan><tspan class="g4">   </tspan><tspan class="g2">&#x27;`=</tspan><tspan class="g1">@@%*~,</tspan><tspan class="g2">::~~=%</tspan><tspan class="g3">**~,`</tspan><tspan class="g4">        </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">  .</tspan><tspan class="g3">,;+==~,</tspan><tspan class="g2">`&#x27;</tspan><tspan class="g4"> </tspan><tspan class="g2">&#x27;*</tspan><tspan class="g1">@@%</tspan><tspan class="g0">@@</tspan><tspan class="g1">@&amp;~`</tspan><tspan class="g2">`</tspan><tspan class="g4"> </tspan><tspan class="g2">`;</tspan><tspan class="g3">+x=;:,</tspan><tspan class="g4"> </tspan><tspan class="g3">&#x27;</tspan><tspan class="g4">*   </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">    </tspan><tspan class="g3">,::~*~:</tspan><tspan class="g2">,</tspan><tspan class="g4"> </tspan><tspan class="g2">&#x27;`</tspan><tspan class="g1">;@@</tspan><tspan class="g0">@@@@</tspan><tspan class="g1">@@+</tspan><tspan class="g2">,</tspan><tspan class="g4"> </tspan><tspan class="g2">&#x27;,</tspan><tspan class="g3">~+=~;,&#x27;</tspan><tspan class="g4">    </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">     </tspan><tspan class="g3">``;*+*+</tspan><tspan class="g2">;:</tspan><tspan class="g4">  </tspan><tspan class="g1">`;#@</tspan><tspan class="g0">@@</tspan><tspan class="g1">%@@</tspan><tspan class="g2">;&#x27;</tspan><tspan class="g4"> </tspan><tspan class="g2">&#x27;&#x27;</tspan><tspan class="g3">`~**~,:`</tspan><tspan class="g4"> .</tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">       </tspan><tspan class="g3">&#x27;`;~==</tspan><tspan class="g2">x*~:`,</tspan><tspan class="g1">:~~%@@</tspan><tspan class="g2">x,</tspan><tspan class="g4">   </tspan><tspan class="g3">&#x27;::;~~;`&#x27;</tspan><tspan class="g4"> </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">         </tspan><tspan class="g3">&#x27;`::+*=</tspan><tspan class="g2">x%&amp;&amp;@@@@x~`</tspan><tspan class="g4">   *</tspan><tspan class="g3">`:;~;::``</tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">               </tspan><tspan class="g3">,;;;</tspan><tspan class="g2">*~+;,:</tspan><tspan class="g4">      </tspan><tspan class="g3">``;;~;;``</tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">                 </tspan><tspan class="g3">&#x27;</tspan><tspan class="g4">     </tspan><tspan class="g3">&#x27;</tspan><tspan class="g4">      </tspan><tspan class="g3">&#x27;`::~~;,,</tspan><tspan class="g4"> </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">             .                . </tspan><tspan class="g3">:::::,</tspan><tspan class="g4">  </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">        *    .              </tspan><tspan class="g3">&#x27;&#x27;&#x27;</tspan><tspan class="g4"> </tspan><tspan class="g3">,;;,,</tspan><tspan class="g4">. .</tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">                            </tspan><tspan class="g3">`&#x27;,:,:,</tspan><tspan class="g4">     </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">                    ..                  </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">     .                                  </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4"> .              .            .          </tspan></tspan>
+<tspan x="15" dy="20"><tspan class="g4">                                        </tspan></tspan>
+</text>
+<text x="429.1" y="30">
+<tspan x="429.1"><tspan class="key-h">steven</tspan><tspan class="dim">@</tspan><tspan class="key-h">ortega </tspan><tspan class="dim">————————————————————————————————————————————</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">OS</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................................. </tspan><tspan class="val">macOS, Linux, AWS</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................... </tspan><tspan class="val">Data Science @ UT Austin &#x27;29</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Host</tspan><tspan class="dim">:</tspan><tspan class="dim"> ..................................... </tspan><tspan class="val">Patel Gaines</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Kernel</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........................... </tspan><tspan class="val">Full-Stack Developer</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">IDE</tspan><tspan class="dim">:</tspan><tspan class="dim"> .............................. </tspan><tspan class="val">VS Code, Claude Code</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">.</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Programming</tspan><tspan class="dim">:</tspan><tspan class="dim"> ... </tspan><tspan class="val">TypeScript, Python, SQL, Java</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Stack</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........ </tspan><tspan class="val">Next.js, React, Node, Supabase</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">ML</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">PyTorch, scikit-learn</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">.</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Shipped</tspan><tspan class="dim">.</tspan><tspan class="key">Founder</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............. </tspan><tspan class="val">Krowe Portal (100+ users)</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Shipped</tspan><tspan class="dim">.</tspan><tspan class="key">Awards</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">1st @ CQ Hacks 2026</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">.</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="key-h">- Contact </tspan><tspan class="dim">————————————————————————————————————————————————</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Email</tspan><tspan class="dim">:</tspan><tspan class="dim"> ...................... </tspan><tspan class="val">steven.ortega426@gmail.com</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................................ </tspan><tspan class="val">stevenortega3</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Portfolio</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............................ </tspan><tspan class="val">stevenortega.dev</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">.</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="key-h">- GitHub Stats </tspan><tspan class="dim">———————————————————————————————————————————</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................. </tspan><tspan class="val">11</tspan><tspan class="dim"> | </tspan><tspan class="key">Stars</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................ </tspan><tspan class="val">0</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............. </tspan><tspan class="val">1,633</tspan><tspan class="dim"> | </tspan><tspan class="key">Followers</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............ </tspan><tspan class="val">1</tspan></tspan>
+<tspan x="429.1" dy="20"><tspan class="dim">. </tspan><tspan class="key">Contributed</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............. </tspan><tspan class="val">7</tspan><tspan class="dim"> | </tspan><tspan class="key">Year</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............. </tspan><tspan class="val">1,673</tspan></tspan>
+</text></svg>

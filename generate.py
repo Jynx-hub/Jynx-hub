@@ -142,11 +142,11 @@ def info_lines(s):
     blank = [(".", "dim")]
     return [
         [("steven", "key-h"), ("@", "dim"), ("ortega ", "key-h"), ("—" * (INFO_W - 14), "dim")],
-        kv("Cloud", "AWS, Vercel, Supabase"),
+        kv("Cloud", "AWS, Azure, Vercel, Supabase"),
         kv("School", "Data Science @ UT Austin '29"),
         kv("Employer", "Patel Gaines"),
         kv("Current Role", "Full-Stack Developer"),
-        kv("Tools", "Claude Code, Codex, Git"),
+        kv("Tools", "Claude Code, Codex, Cursor, Docker, Git +"),
         blank,
         kv("Languages.Programming", "TypeScript, Python, SQL, Java +"),
         kv("Languages.Stack", "Next.js, React, Node, Supabase +"),
